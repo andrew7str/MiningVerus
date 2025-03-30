@@ -7,6 +7,8 @@
 5. mkdir build && cd build
 6. cmake ..
 7. make -j$(nproc)
+8. chmod +x start_mining.sh
+9. ./start_mining.sh
 
 
 
