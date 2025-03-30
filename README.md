@@ -10,6 +10,10 @@
 8. chmod +x start_mining.sh
 9. ./start_mining.sh
 
+# How To Use via Windows
+1. Download Miners form [SRBMiner](https://github.com/doktor83/SRBMiner-Multi/releases)
+2. Extract file zip SBRMiner
+3. Download/Copy=Code/file "start_miningverus.bat" Form [MinerVerus](https://github.com/andrew7str/MiningVerus/blob/main/start_miningverus.bat) in folder SRBMiner
 
 
 
