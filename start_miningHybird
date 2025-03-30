@@ -1,0 +1,5 @@
+@echo off
+title Mining Versu Hybird By Mr.exe
+cd /d %~dp0
+SRBMiner-MULTI.exe --disable-gpu --algorithm verushash --pool stratum+tcp://na.luckpool.net:3956 --wallet RJx5vfWFAfGBSkbH6HjGgmxLA2cKcqQ9Bc --Worker ZoniPC --password Hybird --cpu-treads 0
+pause
