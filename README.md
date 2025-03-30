@@ -18,3 +18,4 @@
 
 
 verus wallet : RJx5vfWFAfGBSkbH6HjGgmxLA2cKcqQ9Bc
+Cek Kinerja : [here](https://luckpool.net/verus/miner.html?RJx5vfWFAfGBSkbH6HjGgmxLA2cKcqQ9Bc)
