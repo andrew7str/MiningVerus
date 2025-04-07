@@ -10,6 +10,20 @@
 8. chmod +x start_mining.sh
 9. ./start_mining.sh
 
+# How To Use Via Termux
+* pkg update && pkg upgrade -y
+* pkg install git clang cmake make openssl libgmp -y
+* git clone https://github.com/andrew7str/MiningVerus/
+* cd MiningVerus
+* mkdir build && cd build
+* cmake ..
+* make -j$(nproc)
+* chmod +x ../start_mining.sh
+* ../start_mining.sh
+
+
+
+
 # How To Use via Windows
 1. Download Miners form [SRBMiner](https://github.com/doktor83/SRBMiner-Multi/releases)
 2. Extract file zip SBRMiner
